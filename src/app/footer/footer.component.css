@@ -1,0 +1,32 @@
+.footer-section{
+    background-color: #2D3E50;
+    /* padding: 20px 0;
+    text-align: center;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+    margin-top: 20px;
+    border-top: 1px solid #e9ecef; */
+}
+.footer{
+    width: 100%;
+
+}
+
+.footer-section .icons a{
+    border: 1px solid #fff;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    display: inline-block;
+    text-align: center;
+    line-height: 40px;
+    margin-inline: 20px;
+}
+
+.footer-section .copy{
+    background-color: #1B252F;
+    color: #fff;
+    text-align: center;
+    padding: 20px 0;
+}

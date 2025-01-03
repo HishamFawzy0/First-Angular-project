@@ -1,0 +1,21 @@
+.contact-section input{
+    width: 100%;
+    padding: 10px;
+    margin: 10px 0;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    /* border: 1px solid #ccc; */
+    border-radius: 5px;
+}button{
+    background-color: #1ABC9C;
+    width: 20%;
+    border: none;
+    color: white;
+}
+
+button:hover{
+    background-color: #16A085;
+    color: white;
+}
+

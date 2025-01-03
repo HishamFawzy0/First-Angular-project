@@ -1,0 +1,19 @@
+.hidden-layer{
+    cursor: pointer;
+    position: absolute;
+    background-color: #1ABC9C;
+    inset: 0;
+    opacity: 0;
+    transition: all 0.5s;
+}
+
+.portofolio-item:hover .hidden-layer{
+    opacity: 1;
+}
+
+
+
+.hidden-layer i{
+    font-size: 100px;
+    color: #fff;
+}

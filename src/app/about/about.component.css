@@ -1,0 +1,24 @@
+ .about-section{
+    background-color: #1ABC9C;
+}
+ 
+ .star-icon::before{
+    content: "";
+    position: absolute;
+    width: 100px;
+    height: 5px;
+    top: 10px;
+    left: -120px;
+    background-color: #fff;
+    
+}
+ .star-icon::after{
+    content: "";
+    position: absolute;
+    width: 100px;
+    height: 5px;
+    top: 10px;
+    left: 45px;
+    background-color: #fff;
+    
+}   
